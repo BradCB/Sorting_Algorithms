@@ -1,3 +1,4 @@
+//Author: Brad Bolton
 #include<ctime>
 #include<cstdlib>
 #include<algorithm>
